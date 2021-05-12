@@ -7,4 +7,4 @@ to layout analysis.
 
 I use Void Linux, BSPWM, and Emacs.
 
-If you want to contact me, feel free to message semi#5753 on Discord.
+If you want to contact me, feel free to message semi#5753 on Discord or @semilin0:matrix.org on Matrix.
