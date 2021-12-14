@@ -6,6 +6,6 @@ I currently use Void Linux, Emacs, and BSPWM.
 
 ## Contact Information
 * Email - semilinares@pm.me
-* Discord - semi#5753
+* Discord - semi#7866
 * Matrix - @semilin0:matrix.org
 * Session ID - `05d026a337fe782d2a0ef5fe172fa5634f0291ed2bdf0d98025e11d5542ee2c613`
