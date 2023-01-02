@@ -1,7 +1,6 @@
 # Hey, I'm semi.
 
-I specialize in keyboard layout analysis and generation. I'm the creator of the [Semimak keyboard layout](https://semilin.github.io/semimak), using my [genkey](https://semilin.github.io/genkey), and I'm currently working on [Keynergy](https://github.com/keynergy) - a new approach 
-to layout analysis.
+I specialize in keyboard layout analysis and generation. I'm the creator of the [Semimak keyboard layout](https://semilin.github.io/semimak), using my [genkey](https://semilin.github.io/genkey). I'm currently working on [layoup](https://github.com/semilin/layoup), an extensible layout analyzer written in Common Lisp. 
 
 I currently use Void Linux, Emacs, and BSPWM.
 
@@ -9,5 +8,5 @@ I currently use Void Linux, Emacs, and BSPWM.
 
 ## Contact Information
 * Email - semilin@disroot.org
-* Discord - semi#7866
+* Discord - semi#5619
 * Matrix - @semilin0:matrix.org
