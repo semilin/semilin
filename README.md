@@ -9,4 +9,3 @@ I currently use Guix System, Emacs, and Qtile.
 ## Contact Information
 * Email - semilin@disroot.org
 * Discord - `semilin`
-* Matrix - `@semilin0:matrix.org`
